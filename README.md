@@ -33,6 +33,3 @@ Each notebook is built to run on [Google Colab](https://colab.research.google.co
 
 ## 🧑‍💻 Author
 All projects were created independently by [@BAlshowaikh](https://github.com/BAlshowaikh).
-
-## 📜 License
-This repository is shared under the [MIT License](LICENSE).
